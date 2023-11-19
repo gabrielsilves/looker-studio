@@ -26,7 +26,7 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 
 
 Campos Calculados a partir dos dados:
-- Iinterações
+- Interações
 - Média de Volume de Interação
 - MIC
 - Tx. Conversão

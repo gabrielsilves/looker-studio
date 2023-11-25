@@ -25,7 +25,9 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 - Qualificação
 
 
-Campos Calculados a partir dos dados:
+
+
+#### [Campos Calculados](https://github.com/gabrielsilves/looker-studio/blob/main/Dashboard%20Marketing/campos-calculados.sql) criados a partir dos dados:
 - Interações
 - Média de Volume de Interação
 - MIC

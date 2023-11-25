@@ -11,7 +11,7 @@ Dashboards elaborados com foco em estudos na ferramenta Looker Data Studio, visa
 
 ### Dashboard Marketing
 
-![AutoDash - Marketing](https://github.com/gabrielsilves/looker-studio/assets/123841776/89a49385-1bab-40d7-be14-8f12d5c5e437)
+![AutoDash - Marketing](https://github.com/gabrielsilves/looker-studio/assets/123841776/3173fd5d-e8ad-4940-adfb-7bbac367f709)
 
 Acesse o dashboard completo [neste link](https://lookerstudio.google.com/reporting/bdd38eb7-8997-4a82-aae6-9465d5fa9a2e)
 

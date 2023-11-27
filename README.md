@@ -1,8 +1,10 @@
-<a href="https://lookerstudio.google.com/reporting/bdd38eb7-8997-4a82-aae6-9465d5fa9a2e" target="_blank">
+<div style="display: flex; align-items: center;">
+    <h1>Portfólio Looker Data Studio</h1>
+    <a href="https://lookerstudio.google.com/reporting/bdd38eb7-8997-4a82-aae6-9465d5fa9a2e" target="_blank" style="margin-left: 20px;">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/512px-Looker.svg.png" alt="Looker" width="100" height="30" />
-        </a>
+    </a>
+</div>
 
-# Portfólio Looker Data Studio 📊        
 
 Dashboards elaborados com foco em estudos na ferramenta Looker Data Studio, visando construir um portfólio com cenários reais do dia a dia:
 
